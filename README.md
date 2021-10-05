@@ -1,0 +1,1 @@
+Este repositório contém os códigos desenvolvidos para a minha dissertação de mestrado no Programa de Engenharia de Sistemas e Computação (PESC) da UFRJ, intitulada "Majority Vote Community Detection with Dynamic Threshold and Bootstrapped Rounds".
